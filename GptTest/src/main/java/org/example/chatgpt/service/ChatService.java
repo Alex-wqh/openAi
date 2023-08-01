@@ -31,7 +31,7 @@ import static com.theokanning.openai.service.OpenAiService.*;
 /**
  * 会话服务
  *
- * @author wanghuidong
+ * @author Alex
  * 时间： 2023/6/9 11:58
  */
 @Service

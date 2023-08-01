@@ -21,7 +21,7 @@ import java.util.function.Consumer;
 import static com.theokanning.openai.service.OpenAiService.*;
 
 /**
- * @author wanghuidong
+ * @author Alex
  * 时间： 2023/6/5 17:07
  */
 public class Main {
